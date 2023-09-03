@@ -1,0 +1,4 @@
+data,Hn,epoch,train_accuracy,validation accuracy,test accuracy,weight matrics path,bias matrics path
+smoothdata,7,400,0.956975171270236,0.9559950556242276,"[0.9569146700294241, 0.958615084010031, 0.9570968837310326]",ENO3//model/trained_weights_Hn_7smoothdata.mat,ENO3//model/trained_biases_Hn_7smoothdata.mat
+nonsmoothdata,7,400,0.9772582087645332,0.974903474903475,"[0.9757948717948718, 0.9763762740111169, 0.9757979028365319]",ENO3//model/trained_weights_Hn_7nonsmoothdata.mat,ENO3//model/trained_biases_Hn_7nonsmoothdata.mat
+union_data,7,400,0.9205569205569205,0.9187935034802784,"[0.9210007266687429, 0.9230351177689997, 0.9209776546110229]",ENO3//model/trained_weights_Hn_7union_data.mat,ENO3//model/trained_biases_Hn_7union_data.mat

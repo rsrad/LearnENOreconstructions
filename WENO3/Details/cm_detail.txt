@@ -1,0 +1,6 @@
+data:smoothdata Hn:7
+Accuracy  : 0.9761904761904762	Precision : 0.9529478458049886	f1Score : 0.9644291451520367	
+data:nonsmoothdata Hn:7
+Accuracy  : 0.9954871794871795	Precision : 0.9954912410722048	f1Score : 0.9954847198151965	
+data:union_data Hn:7
+Accuracy  : 0.9857187208941323	Precision : 0.9858700126504848	f1Score : 0.9855652685449974	
